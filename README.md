@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minrandom
 - 👀 I’m interested in php programming and all about web service etc.
-- 🌱 I’m currently learning flutter and the web 3.0 env
+- 🌱 I’m currently learning flutter and the web programming using PHP
 - 📫 How to reach me just add my telegram @minrandom-
 
 <!---
